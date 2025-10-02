@@ -13,7 +13,7 @@ Our current tests with the dataset of Díaz et al. (2015) demonstrate that
 
 The recovered model (shown below as two orthogonal profiles, EW and NS) exhibits reasonable agreement between predictions and observations, indicating that the development is progressing correctly. The main geophysical features are consistent with the published model:
 
-![Modelo MT](/assets/img/content/modelo_data.png)
+![Modelo MT]({{ site.baseurl }}/assets/img/content/modelo_data.png)
 
 - Resistivity values span a comparable range of roughly 1 – 1000 Ω·m and increase toward the east.
 - High‑conductivity bodies extend to depths of up to 4 km and are predominantly oriented N‑NE.
