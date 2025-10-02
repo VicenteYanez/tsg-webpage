@@ -6,6 +6,7 @@ description: 3D Modelling
 baseurl: ""
 url: ""
 og_image: /assets/img/logo1.jpg
+theme: bay_jekyll_theme
 #google_analytics: "UA-121636368-3"
 
 header:
