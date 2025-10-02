@@ -3,7 +3,7 @@
 
 title: TerraSur Geofísica 
 description: 3D Modelling
-baseurl: ""
+baseurl: "tsg-website"
 url: ""
 og_image: /assets/img/logo1.jpg
 remote_theme: eliottvincent/bay
