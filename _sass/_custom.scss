@@ -1,0 +1,40 @@
+/* -------------------------------------------------
+   Reglas específicas para imágenes en línea
+   ------------------------------------------------- */
+
+/* Opción 2 – Clase simple para imágenes */
+.inline-img {
+  height: 240px;               // tamaño fijo (ajusta a tu gusto)
+  vertical-align: left;    // alinea con la línea base del texto
+  margin: 0 4px;              // espacio a izquierda y derecha
+}
+
+/* Opción 3 – Contenedor Flexbox (más robusto) */
+.inline-flex {
+  display: flex;
+  align-items: left;        // alinea verticalmente todo el contenido
+  gap: 8px;                   // espacio entre cada elemento
+}
+
+/* Si prefieres controlar también el tamaño dentro del flex */
+.inline-flex img {
+  height: 40px;
+}
+
+/* Imagen flotante a la izquierda */
+.float-left {
+  float: left;                /* la imagen queda a la izquierda */
+  margin: 0 1rem 1rem 0;      /* espacio a la derecha y abajo */
+  max-width: 25%;             /* controla el ancho máximo (ajusta a tu gusto) */
+}
+
+/* Archivo _sass/_custom.scss (o donde guardes tus estilos) */
+.pair {
+  overflow: hidden;          // evita que el float “escape” del contenedor
+  margin-bottom: 2rem;       // espacio vertical entre cada pareja
+}
+
+/* Si no quieres margen después del último bloque, usa :last-child */
+.pair:last-child {
+  margin-bottom: 0;
+}

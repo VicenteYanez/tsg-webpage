@@ -17,3 +17,6 @@
 @use "blog";
 @use "post";
 @use "not_found";
+
+/* <-- IMPORTANTE: tu código personalizado DEBE ir DESPUÉS de los imports */
+@use "custom";
