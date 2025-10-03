@@ -29,7 +29,7 @@ Natalia specialises in inverse models, with a focus on Bayesian methods for high
 
 <div class="pair">
 <img src="{{ site.baseurl }}/assets/img/content/equipo/katya.jpeg" class="float-left">
-<strong>Katarzyna Anna Slezak, Ph.D. - MT Specialist</strong>
+<strong>Katarzyna Anna Ślęzak, Ph.D. - MT Specialist</strong>
 <br>
 Katarzyna offers extensive experience with magnetotelluric (MT) data acquisition, modelling and interpretation, supported by high‑impact publications and an international research network. She trained the team on MT fundamentals, benchmarked forward‑modelling codes and linked the project with leading MT academics worldwide.
 </div>
