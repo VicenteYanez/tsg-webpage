@@ -17,4 +17,4 @@ Our **values** are quality, adaptability, and creativity, ensuring that its inte
 We secured public funding through the **ANID Startup Ciencia 2024** grant competition (project code SUC240150). We are actively pursuing additional funding to support the next phase of development.
 
 # Contact Us 
-We are still in the development stage of our technology (see the Solutions tab for details). If you would like to help test our products in the future—or simply want to learn more—please contact us at **info@tsgeophysics.cl**.
+We are still in the development stage of our [technology](/solutions). If you would like to help test our products in the future—or simply want to learn more—please contact us at **info@tsgeophysics.cl**.
