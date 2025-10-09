@@ -17,7 +17,7 @@ Vicente oversees the company’s technology strategy and designs the deep‑lear
 <img src="{{ site.baseurl }}/assets/img/content/equipo/niki.jpeg" class="float-left">
 <strong> Nicole Krumm Nualart, M.sc. - CFO</strong>
 <br>
-Nicole steers the commercial strategy, client outreach and connections with the innovation ecosystem. She is consolidating her management skills with a diploma in Commercial Strategy and Omnichannel (PUC) to guarantee that the technology translates into a sustainable business model. Her experience covers the mining sector, innovation ecosystems, optimisation, big‑data analytics and machine learning.
+Nicole steers the commercial strategy, client outreach and connections with the innovation ecosystem. Her experience covers the mining sector, innovation ecosystems, optimisation, big‑data analytics and machine learning.
 </div>
 
 <div class="pair">
