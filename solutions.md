@@ -18,9 +18,11 @@ The recovered model (shown below as two orthogonal profiles, EW and NS) exhibits
 - Resistivity values span a comparable range of roughly 1 – 1000 Ω·m and increase toward the east.
 - High‑conductivity bodies extend to depths of up to 4 km and are predominantly oriented N‑NE.
 
-### Main limitation
+### Current Work 
 
-The current algorithm does not explore the solution space exhaustively; generated models tend to collapse into a single electrical‑resistivity configuration. This acts as an implicit regularization that captures only first‑order subsurface structures, leaving local heterogeneities unrecovered. Consequently, the final output is an **averaged model** that reflects the overall trend rather than fine‑scale geological detail.
+Our present effort focuses on expanding the exploration of the solution space for the inverse problem. At present, the inversion processtends to collapse into a single electrical‑resistivity configuration. This acts as an implicit regularization that captures only first‑order subsurface structures, leaving local heterogeneities unrecovered. Consequently, the final output is an **averaged model** that reflects the overall trend rather than fine‑scale geological detail.
+
+By addressing this point, we aim to move beyond averaged representations and deliver inversion results that retain both the large‑scale trends and the subtle, geologically significant variations essential for accurate interpretation.
 
 ---
 
