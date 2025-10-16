@@ -13,7 +13,7 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Solutions
+    - name: Products
     - name: Team
 
 footer:

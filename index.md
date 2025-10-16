@@ -11,7 +11,8 @@ Our **mission** is to develop and deliver AI‑based geophysical‑modeling solu
 
 Our **vision** is to become a leading company in geophysical modeling in Chile, expanding its reach to strategic international markets in the near future.
 
-Our **values** are quality, adaptability, and creativity, ensuring that its internal processes and services align with the technical and ethical requirements of the geophysical industry.
+
+Our **values** are quality, adaptability, and creativity, ensuring that our internal processes and services align with the technical and ethical requirements of the geophysical industry, and we are proud to bring this expertise from the Biobío region of Chile.
 
 # Funding
 We secured public funding through the **ANID Startup Ciencia 2024** grant competition (project code SUC240150). We are actively pursuing additional funding to support the next phase of development.
