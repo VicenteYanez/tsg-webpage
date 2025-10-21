@@ -38,3 +38,14 @@
 .pair:last-child {
   margin-bottom: 0;
 }
+
+.circle-img {
+  float: left;                /* la imagen queda a la izquierda */
+  margin: 0 1rem 1rem 0;      /* espacio a la derecha y abajo */
+  max-width: 25%;             /* controla el ancho máximo (ajusta a tu gusto) */
+  width: 20vw;                /* 20 % of viewport width */
+  height: auto;               /* Height will follow the width because of aspect‑ratio */
+  aspect-ratio: 1 / 1;        /* Forces a square shape */
+  object-fit: cover;
+  border-radius: 50%;
+}

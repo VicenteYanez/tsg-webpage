@@ -15,6 +15,7 @@ header:
       slug: /
     - name: Product
     - name: Team
+    - name: FAQ
 
 footer:
   show_powered_by: false 
