@@ -14,7 +14,7 @@ I oversee the company’s technology strategy and design the deep‑learning mod
 </div>
 
 <div class="pair">
-<img src="{{ site.baseurl }}/assets/img/content/equipo/niki.jpeg" class="circle-img">
+<img src="{{ site.baseurl }}/assets/img/content/equipo/niki.png" class="circle-img">
 <strong> Nicole Krumm Nualart, M.sc. - CFO</strong>
 <br>
 I steer the commercial strategy, client outreach, and connections with the innovation ecosystem. My experience spans the mining sector, innovation ecosystems, optimization, big‑data analytics, and machine learning.
@@ -28,7 +28,7 @@ I specialize in inverse models, focusing on Bayesian methods for high‑dimensio
 </div>
 
 <div class="pair">
-<img src="{{ site.baseurl }}/assets/img/content/equipo/katya.jpeg" class="circle-img">
+<img src="{{ site.baseurl }}/assets/img/content/equipo/katya.png" class="circle-img">
 <strong>Katarzyna Anna Ślęzak, Ph.D. - MT Specialist</strong>
 <br>
 I offer extensive experience with magnetotelluric (MT) data acquisition, modeling, and interpretation, backed by high‑impact publications and an international research network. I trained the team on MT fundamentals, benchmarked forward‑modeling codes, and connected the project with leading MT academics worldwide.
