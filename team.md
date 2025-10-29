@@ -29,7 +29,7 @@ I specialize in inverse models, focusing on Bayesian methods for high‑dimensio
 
 <div class="pair">
 <img src="{{ site.baseurl }}/assets/img/content/equipo/katya.png" class="circle-img">
-<strong>Katarzyna Anna Ślęzak, Ph.D. - MT Specialist</strong>
+<strong>Katarzyna Anna Ślęzak, Ph.D. - Geophysicist</strong>
 <br>
 I offer extensive experience with magnetotelluric (MT) data acquisition, modeling, and interpretation, backed by high‑impact publications and an international research network. I trained the team on MT fundamentals, benchmarked forward‑modeling codes, and connected the project with leading MT academics worldwide.
 </div>
